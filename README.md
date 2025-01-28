@@ -86,7 +86,7 @@ npm run interactza54ai Sabi ask "Top holders: {mintAddress}"
 ```
 - Example:
 ```bash
-npm run interactza54ai Sabi ask "Top holders: 6LKbpcg2fQ84Ay3kKXVyo3bHUGe3s36g9EVbKYSupump"
+npm run interactza54ai Sabi ask "Top holders: "
 ```
 6. Fetch Market Cap Data:
 ```bash
@@ -102,7 +102,7 @@ npm run interactza54ai {aliceName} ask "First top {count} buyers for: {mintAddre
 ```
 - Example: 
 ```bash 
-npm run interactza54ai Sabi ask "First top 10 buyers for: 6LKbpcg2fQ84Ay3kKXVyo3bHUGe3s36g9EVbKYSupump"
+npm run interactza54ai Sabi ask "First top 10 buyers for: "
 ```
 8. Trade Tokens:
 ```bash 
